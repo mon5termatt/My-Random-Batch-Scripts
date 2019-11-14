@@ -11,4 +11,4 @@ Scripts made for fun, serve no real purpose, not updated to keep functioning
 
 # UTIL
 
-Scripts made for autopmation, Effort is actually put into makeing these files functional and useful to the user
+Scripts made for automation, Effort is actually put into makeing these files functional and useful to the user
